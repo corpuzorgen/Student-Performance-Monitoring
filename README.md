@@ -2,6 +2,7 @@
 Web-based Student Performance Monitoring for CC Smartkidz School Incorporated.
 
 This is a web based Student Performance Monitoring using Graphs. 
+Original Website: http://www.ccsmartkidz.com
 
 <b>Language used to develop:</b> <br />
 1. HTML5 <br />
